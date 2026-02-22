@@ -1,6 +1,6 @@
 # REANIMAL Trainer 2026 for Windows
 
-[![Stars](https://img.shields.io/github/stars/твой-ник/reanimal-trainer-2026)](https://github.com/твой-ник/reanimal-trainer-2026)
+[![Stars](https://img.shields.io/github/stars/AntoineLavoie/reanimal-trainer-2026)](https://github.com/AntoineLavoie/reanimal-trainer-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Open-source educational project** demonstrating game memory manipulation in Unreal Engine 5.  
